@@ -76,3 +76,6 @@ Data Analyst | Python & Tableau Enthusiast
 ---
 
 ⭐ Feel free to explore the dashboard and provide feedback!
+
+<img width="1323" height="755" alt="Projek stock market" src="https://github.com/user-attachments/assets/4c663d19-1f0e-4bd0-821e-a19b8d350a7c" />
+
