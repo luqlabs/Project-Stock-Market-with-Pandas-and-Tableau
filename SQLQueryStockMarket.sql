@@ -1,11 +1,4 @@
--- Created by GitHub Copilot in SSMS - review carefully before executing
-/*
-  Unified stock dataset and analytical queries for Power BI / Tableau.
-  Combines company tables into a single view and provides KPI, comparison,
-  trend, distribution, and moving-average queries.
-*/
-
---------------------------------------------------------------------------------
+----------------------------------------------------------------------
 -- A. UNIFIED STOCK DATASET
 --------------------------------------------------------------------------------
 CREATE OR ALTER VIEW dbo.vw_Stock_Combined
